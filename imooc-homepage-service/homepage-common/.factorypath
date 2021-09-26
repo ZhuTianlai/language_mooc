@@ -1,0 +1,5 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
